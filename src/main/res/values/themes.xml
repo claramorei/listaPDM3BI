@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ExpressionDetector" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#5E35B1</item>
+        <item name="colorPrimaryDark">#4527A0</item>
+        <item name="colorAccent">#FFB300</item>
+    </style>
+</resources>

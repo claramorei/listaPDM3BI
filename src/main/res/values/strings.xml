@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Detector de Expressões</string>
+    <string name="disclaimer">Uso apenas educacional. Este app NÃO realiza diagnóstico psicológico ou médico.</string>
+    <string name="btn_save">Salvar no histórico</string>
+    <string name="btn_clear">Limpar histórico</string>
+    <string name="expression_default">Aponte a câmera para um rosto…</string>
+    <string name="history_title">Histórico de detecções</string>
+    <string name="quote_loading">Buscando frase…</string>
+</resources>
